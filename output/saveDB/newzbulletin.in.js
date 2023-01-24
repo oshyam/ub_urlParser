@@ -1,0 +1,1 @@
+["newzbulletin.in/latest-news/","newzbulletin.in/business/","newzbulletin.in/sports/","newzbulletin.in/special/","newzbulletin.in/entertainment/","newzbulletin.in/inspirational/","newzbulletin.in/weird/","newzbulletin.in/career/","newzbulletin.in/our-team/"]

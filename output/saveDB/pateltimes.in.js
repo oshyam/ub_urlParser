@@ -1,0 +1,1 @@
+["pateltimes.in/gujarat/","pateltimes.in/business/","pateltimes.in/astrology/","pateltimes.in/technology/","pateltimes.in/lifestyle/","pateltimes.in/national/","pateltimes.in/relationship/"]

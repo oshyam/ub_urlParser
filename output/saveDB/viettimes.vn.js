@@ -1,0 +1,1 @@
+["viettimes.vn/chuyen-doi-so/","viettimes.vn/truyen-thong-so/","viettimes.vn/kinh-te-so/","viettimes.vn/xa-hoi/","viettimes.vn/giao-duc/","viettimes.vn/suc-khoe/","viettimes.vn/the-gioi/","viettimes.vn/khoa-hoc-cong-nghe/","viettimes.vn/giai-tri/","viettimes.vn/Emagazine/","viettimes.vn/dong-su-kien.html"]

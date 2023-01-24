@@ -1,0 +1,1 @@
+["www.yourfates.com/topic/","www.yourfates.com/blog/","www.yourfates.com/quotation/","www.yourfates.com/famous-people-quotes/","www.yourfates.com/wishes/","www.yourfates.com/events-festivals/"]

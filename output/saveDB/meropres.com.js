@@ -1,0 +1,1 @@
+["www.meropres.com/term-and-conditions/","www.meropres.com/home/"]

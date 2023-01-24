@@ -1,0 +1,1 @@
+["www.islampos.com/iklan/","www.islampos.com/redaksi/","www.islampos.com/copyright/"]

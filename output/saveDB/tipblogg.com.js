@@ -1,0 +1,1 @@
+["www.tipblogg.com/category/business/","www.tipblogg.com/category/celebrity/","www.tipblogg.com/category/news/","www.tipblogg.com/category/health/","www.tipblogg.com/category/usa/","www.tipblogg.com/category/world-news/","www.tipblogg.com/category/data-science/","www.tipblogg.com/gdpr-policy/"]
